@@ -13,7 +13,7 @@
 1. [Migration considerations](/docs/migration.md)
 
 # Introduction
- 
+  
 _Azure Chat Solution Accelerator powered by Azure Open AI Service_
 
 ![](/docs/images/intro.png)
