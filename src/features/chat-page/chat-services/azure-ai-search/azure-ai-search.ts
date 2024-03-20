@@ -19,6 +19,7 @@ export interface AzureSearchDocumentIndex {
   id: string;
   pageContent: string;
   content?: string;
+  chunk?: string;
   embedding?: number[];
   user: string;
   chatThreadId: string;
