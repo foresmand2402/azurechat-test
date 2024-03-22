@@ -26,7 +26,7 @@ Benefits are:
 
 2. Controlled: Network traffic can be fully isolated to your network and other enterprise grade authentication security features are built in.
 
-3. Value: Deliver added business value with your own internal data sources (plug and play) or integrate with your internal services (e.g., ServiceNow, etc).
+3. Value: Deliver added business value with your own internal data sources (plug and play) or integrate with your internal services (e.g., ServiceNow, etc...).
 
 # Deploy to Azure
 
