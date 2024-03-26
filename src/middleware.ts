@@ -4,7 +4,7 @@ import { NextRequest, NextResponse } from "next/server";
 const requireAuth: string[] = [
   "/chat",
   "/api",
-  "/reporting",
+  //"/reporting",
   "/unauthorized",
   "/persona",
   "/prompt"
@@ -42,7 +42,7 @@ export async function middleware(request: NextRequest) {
 export const config = {
   matcher: [
     "/unauthorized/:path*",
-    "/reporting/:path*",
+    //"/reporting/:path*",
     "/api/chat:path*",
     "/api/images:path*",
     "/chat/:path*",
